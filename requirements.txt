@@ -1,0 +1,9 @@
+torch
+torchaudio
+git+https://github.com/openai/whisper.git
+gradio>=4.44.0
+librosa
+numpy
+transformers
+pydantic>=2.0.0
+
