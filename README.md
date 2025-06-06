@@ -1,10 +1,28 @@
-# 🎧 中文語音與文字情緒辨識聊天機器人（Multimodal Emotion Classifier）
+---
+title: 中文語音情緒辨識
+emoji: 🎧
+colorFrom: blue
+colorTo: pink
+sdk: gradio
+sdk_version: "4.25.0"
+app_file: app.py
+pinned: false
+---
 
-本專案為一個可在瀏覽器中使用的聊天機器人形式 Web App，支援使用者透過語音、文字，或兩者同時輸入，進行情緒辨識。辨識結果分為：正面 / 中性 / 負面。
+# 🎧 中文語音情緒辨識（EATD）
+
+這是一個能夠辨識語音情緒（正面 / 中性 / 負面）的 Web App，採用：
+
+- OpenAI Whisper 進行語音轉文字
+- MFCC + delta 特徵萃取
+- 多模態情緒辨識模型（只用 audio）
+
 
 ---
 
 ## 🌐 線上體驗
+
+![Demo Screenshot](demo_screenshot.png)
 
 👉 [點我體驗 Demo（Hugging Face Spaces）](https://huggingface.co/spaces/pcreem/emo)
 
