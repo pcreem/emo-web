@@ -15,7 +15,7 @@ pinned: false
 
 - OpenAI Whisper 進行語音轉文字
 - MFCC + delta 特徵萃取
-- 多模態情緒辨識模型（只用 audio）
+- 多模態情緒辨識模型
 
 
 ---
