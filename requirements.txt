@@ -6,4 +6,4 @@ librosa
 numpy
 transformers
 pydantic>=2.0.0
-
+ffmpeg-python
