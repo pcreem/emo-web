@@ -22,9 +22,9 @@ pinned: false
 
 ## 🌐 線上體驗
 
-![Demo Screenshot](demo_screenshot.png)
-
 👉 [點我體驗 Demo（Hugging Face Spaces）](https://huggingface.co/spaces/pcreem/emo)
+
+[Demo Screenshot](demo_screenshot.png)
 
 ---
 
