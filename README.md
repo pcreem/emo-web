@@ -4,6 +4,12 @@
 
 ---
 
+## 🌐 線上體驗
+
+👉 [點我體驗 Demo（Hugging Face Spaces）](https://huggingface.co/spaces/pcreem/emo)
+
+---
+
 ## ✨ 功能介紹
 
 - 🎤 **語音輸入**：語音自動轉文字（Whisper），並以聲音特徵進行情緒分析。
